@@ -5,7 +5,7 @@ Hunger Captian , with a frontend built in React & Redux and a backend built in D
 Check out [FRONTEND LIVE DEMO](https://frontend-hunger-captian.shenitamccrimag.repl.co/) here!!
 
 
-Check out [API LIVE DEMO](https://backend-hunger-captain.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-hunger-captian.shenitamccrimag.repl.co/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
